@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <include
+        android:id="@+id/rec_id"
+        layout="@layout/item_rec_movie" />
+
+    <include
+        android:id="@+id/squ_id"
+        layout="@layout/item_squ_movie" />
+</FrameLayout>

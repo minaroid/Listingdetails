@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="post_card_elevation">8dp</dimen>
+    <dimen name="post_linear_padding">3dp</dimen>
+</resources>

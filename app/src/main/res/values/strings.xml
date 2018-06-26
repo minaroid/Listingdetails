@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Listing details app</string>
+    <string name="post_title_label">sunt aut facere repellat provident occaecati excepturi optio reprehenderit</string>
+
+    <string name="the_moviedb_api_key">c23c8f8855a040042f0433b7696f9d65</string>
+    <string name="movie_name_label">title</string>
+    <string name="menu_popular_title">Most popular</string>
+    <string name="menu_rate_title">Top rated</string>
+    <string name="menu_fav_title">Favorites</string>
+    <string name="tab_discussion">Discussion</string>
+    <string name="tab_overview">Overview</string>
+    <string name="msg_try_later">sorry try later</string>
+    <string name="wave_date">08 January</string>
+    <string name="wave_tomorro">Trip to tomorrowland</string>
+    <string name="wave_going">2 Going</string>
+    <string name="wave_hazoom">hazoooom</string>
+    <string name="circle_price">1300.0$</string>
+    <string name="likes">21 Likes</string>
+    <string name="comments">33 Comments</string>
+    <string name="post_auth_name">Mina George</string>
+    <string name="post_date">1 month ago</string>
+    <string name="post_comment">ahmed ayman</string>
+    <string name="post_comment_auth">ahmed ayman</string>
+    <string name="menu_share">Share</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/action_popular"
+        android:orderInCategory="100"
+        android:title="@string/menu_popular_title"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_rate"
+        android:orderInCategory="100"
+        android:title="@string/menu_rate_title"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_span"
+        android:title="span"
+        android:icon="@drawable/ic_format_align_justify"
+        app:showAsAction="always" />
+</menu>
